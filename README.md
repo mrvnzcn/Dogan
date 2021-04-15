@@ -1,2 +1,2 @@
 # Dogan
- Doğan isimli insansız hav aracıyla alakalı tüm çalışmalar
+ Doğan isimli insansız hava aracıyla alakalı tüm çalışmalar
